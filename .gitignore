@@ -1,0 +1,13 @@
+/.devcontainer
+/.env
+/.vscode
+/CONTRIBUTING.md
+/LICENSE
+/NOTICE
+/README.md
+/app
+/chainlit.md
+/mydatabase.db
+/requirements.txt
+/sample_pdf
+/venv
